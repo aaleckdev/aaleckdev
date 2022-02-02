@@ -1,6 +1,9 @@
 
 
 ### Hello! my name is Alex 😎
+I'm 22 years old, I'm studying computer science and I'm in my second term. My hobbies are playing guitar and guitar and sometimes playing a game in my spare time.
+
+" The past is in minds, the future is in the hands "
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1dqv7kk9ler6w&utm_content=20fim02)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-soares-448b79226)
@@ -17,6 +20,3 @@
       <img aling="center" alt="Paython" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div><br/>
 
-I'm 22 years old, I'm studying computer science and I'm in my second term. My hobbies are playing guitar and guitar and sometimes playing a game in my spare time.
-
-" The past is in minds, the future is in the hands "
