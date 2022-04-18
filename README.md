@@ -1,7 +1,7 @@
 
 
 ### Hello! my name is Alex 😎
-I'm 22 years old, I'm studying computer science and I'm in my second term. My hobbies are playing guitar and guitar and sometimes playing a game in my spare time.
+I'm 22 years old, I'm studying computer science and I'm in my second term. My hobbies are playing guitar and sometimes playing a game in my spare time.
 
 " The past is in minds, the future is in the hands "
 
